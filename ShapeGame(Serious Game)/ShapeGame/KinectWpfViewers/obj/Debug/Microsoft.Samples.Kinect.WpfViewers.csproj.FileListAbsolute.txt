@@ -1,0 +1,161 @@
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.AssemblyReference.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.AssemblyReference.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Backup - Copia\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.AssemblyReference.cache
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.AssemblyReference.cache
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\Teste\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.AssemblyReference.cache
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.dll
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\bin\Debug\Microsoft.Kinect.xml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\KinectVoiceCommandViewer.baml
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.cache
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CoreCompileInputs.cache
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.CopyComplete
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\André Giron\Desktop\ShapeGame_Variant\ShapeGame\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
